@@ -152,9 +152,9 @@ Leaderboard update routine adjusted during execution phase to reflect real-time 
 
 | Name | Role | Initials | Date |
 |------|------|-----------|------|
-| Dominic Kirui| Test Manager |DK |27-10-2025|
-| Gilbert Keter| Risk Analyst |GK | 27-10-2025|
-| Bismark Koskei| Test Executor | BK|27-10-2025 |
+| ........................| Test Manager |DK |27-10-2025|
+| ........................| Risk Analyst |GK | 27-10-2025|
+| Bismark Cheruiyot| Test Executor | BK|27-10-2025 |
 
 ## Overall Summary
 
