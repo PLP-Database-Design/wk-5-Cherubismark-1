@@ -106,8 +106,12 @@
 
 | ID | Issue Title | Severity | Risk ID | Status | GitHub Link |
 |----|-------------|----------|---------|--------|-------------|
-|D-01 |Leaderboard does not update immediately	Medium | Medium| R1|fixed |https://github.com/PLP-Database-Design/wk-5-Dommy035-1/issues/2 |
-|D-02 |Success message lingers too long|Low |R4|Fixed |https://github.com/PLP-Database-Design/wk-5-Dommy035-1/issues/3 |
+|D-01 |Leaderboard does not update immediately| Medium| R1|fixed  |https://github.com/PLP-Database-Design/wk-5-Cherubismark-1/issues/3|
+|D-02 |Success message lingers too long|Low |R4|Fixed |https://github.com/PLP-Database-Design/wk-5-Cherubismark-1/issues/2|
+|D-03|Bonus Round Scoring Logic Misfires|High|R3|Fixed|https://github.com/PLP-Database-Design/wk-5-Cherubismark-1/issues/4|
+
+
+
 ## Metrics
 
 - Test Case Pass Percent: 100%
@@ -152,7 +156,7 @@ Leaderboard update routine adjusted during execution phase to reflect real-time 
 
 | Name | Role | Initials | Date |
 |------|------|-----------|------|
-| ........................| Test Manager |DK |27-10-2025|
+| Dominic Kirui| Test Manager |DK |27-10-2025|
 | Gilbert Keter| Risk Analyst |GK | 27-10-2025|
 | Bismark Cheruiyot| Test Executor | BK|27-10-2025 |
 
